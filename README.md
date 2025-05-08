@@ -21,7 +21,7 @@ You can directly access the reports and relevant materials here:
 
 - [HW4 Report](./HW4/AI_HW4_RE6121011.pdf)
 
-- [HW5 Report](./HW5/Alhw5_RE6121011_徐仁瓏.pdf)
+- [HW5 Report](./HW5/AIhw5_RE6121011_徐仁瓏.pdf)
   
 - [Final Presentation Slides](./Final%20Project/人工智慧報告.pptx)
 
